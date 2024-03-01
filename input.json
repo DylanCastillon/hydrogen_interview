@@ -1,0 +1,32 @@
+[
+    {
+        "name": "Jean",
+        "long": -0.118092,
+        "lat": 51.509865,
+        "desc": "It's Jean"
+    },
+    {
+        "name": "Jacques",
+        "lat": 48.864716,
+        "long": 2.349014,        
+        "desc": "It's Jacques"
+    },
+    {
+        "name": "Patrice",
+        "lat": 40.416775,
+        "long": -3.703790,        
+        "desc": "It's Patrice"
+    },
+    {
+        "name": "Hubert",
+        "lat": 41.902782,
+        "long": 12.496366,        
+        "desc": "It's Hubert"
+    },
+    {
+        "name": "Jean-Michel",
+        "lat": 52.520008,
+        "long": 13.404954,        
+        "desc": "It's Jean-Michel"
+    }    
+]

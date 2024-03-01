@@ -1,0 +1,14 @@
+{
+  "name": "hydrogen_interview",
+  "version": "1.0.0",
+  "description": "db_migration",
+  "license": "MIT",
+  "author": {
+    "name": "Dylan Castillon"
+  },
+  "private": "true",
+  "type": "module",
+  "dependencies": {
+    "mongoose": "^8.2.0"
+  }
+}
