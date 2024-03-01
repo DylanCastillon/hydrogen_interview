@@ -2,3 +2,4 @@ node_modules/
 yarn.lock
 output.json
 docker/mongo_volume/*
+!docker/mongo_volume/.readme
